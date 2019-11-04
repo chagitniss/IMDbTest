@@ -14,3 +14,6 @@ To run the project use:
    ```
    src\test\java\watchlistTest.java
    ```
+Currently supported browsers is:
+
+- chrome
