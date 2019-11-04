@@ -1,6 +1,10 @@
 # IMDbTest
 Automatic test watchlist feature of the beloved website imdb.com
 
+### Prerequisites
+ - Selenium 3.141.59
+ - Maven 3.6.2
+
 ### Setup
 In **src/test/resources/config.properties** file, you need to complete your details:
 ```
