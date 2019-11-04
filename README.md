@@ -9,3 +9,8 @@ implicitlyWait= I.e. 20 (An implicit wait is to tell WebDriver to poll the DOM f
 email= The email address you registered with to the IMDb site
 password= The passwords you registered with to the IMDb site
 ```
+### Run   
+To run the project use:
+   ```
+   src\test\java\watchlistTest.java
+   ```
